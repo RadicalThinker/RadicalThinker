@@ -71,7 +71,7 @@ I am also an AI enthuthiast and currently learning machine learning
 <details open>
   <summary><b>📈 Top Languages</b></summary>
   <p align="center">
-    <img src="https://api.githubtrends.io/user/svg/RadicalThinker/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark" alt="Top Languages" width="400"/>
+    <img src="https://api.githubtrends.io/user/svg/RadicalThinker/langs?time_range=one_year&theme=bright_lights" alt="Top Languages" width="400"/>
   </p>
 </details>
 
