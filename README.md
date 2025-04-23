@@ -79,8 +79,9 @@ I am also an AI enthuthiast and currently learning machine learning
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RadicalThinker&theme=radical" width="460"/>
+  <img src="https://streak-stats.demolab.com?user=radicalthinker&theme=dark&short_numbers=true" width="460"/>
 </p>
+
 
 ---
 
