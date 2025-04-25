@@ -82,7 +82,3 @@ I am also an AI enthuthiast and currently learning machine learning
   <img src="https://streak-stats.demolab.com?user=radicalthinker&theme=dark&short_numbers=true" width="460"/>
 </p>
 
-
----
-
-<p align="center">Last updated: April 2025</p>
