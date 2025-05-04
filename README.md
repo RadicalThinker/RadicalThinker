@@ -53,7 +53,7 @@ I am also an AI enthuthiast and currently learning machine learning
   <!-- Pacman GIF -->
   <img width="300px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2w0YTI2bHdocG9sczhvdXBoMWJ3a3JlNjZneHd0bjZ1bWxyb2g3OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif" height="180" alt="Pacman GIF" />
 
-  <img width="380px" align="center" src="https://streak-stats.demolab.com?user=radicalthinker&theme=dark&short_numbers=true" height="180" alt="GitHub Streak Stats" />
+  <img width="380px" align="center" src="https://streak-stats.demolab.com?user=radicalthinker&theme=dark&short_numbers=true" height="340" alt="GitHub Streak Stats" />
   
 </div>
 
