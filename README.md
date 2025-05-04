@@ -45,8 +45,8 @@ I am also an AI enthuthiast and currently learning machine learning
 <div>
 
   <!-- Top Languages -->
-  <img width="440px" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs?username=RadicalThinker&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=RadicalThinker&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img  align="center" height="240px" width="324px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ZpcWc5bTRoM3k1Z2s5emJ0d3h1eDFhcGRucmh4ZGIxaXV6Yzk5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" height="150" alt="Pacman GIF" />
 
 
   <!-- Pacman GIF -->
