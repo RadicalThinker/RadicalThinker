@@ -54,18 +54,23 @@ I am also an AI enthuthiast and currently learning machine learning
 
    <!-- Top Languages -->
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RadicalThinker&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" align="left" />
- 
+
    <!-- GitHub Streak -->
    <img width="380px" src="https://streak-stats.demolab.com?user=radicalthinker&theme=dark&short_numbers=true" width="460" alt="GitHub Streak Stats" align="right" />
    
  </div>
 
 
-
+---
 
 ---
 
 ## ⚙️ Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px" />
+
+---
+
+---
+
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
   <img width="12" />
