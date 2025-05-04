@@ -45,12 +45,12 @@ I am also an AI enthuthiast and currently learning machine learning
 <div>
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RadicalThinker&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img width="440px" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs?username=RadicalThinker&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 
 
 
   <!-- Pacman GIF -->
-  <img  align="right" width="224px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2w0YTI2bHdocG9sczhvdXBoMWJ3a3JlNjZneHd0bjZ1bWxyb2g3OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif" height="150" alt="Pacman GIF" />
+  <img  align="right" height="240px" width="324px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2w0YTI2bHdocG9sczhvdXBoMWJ3a3JlNjZneHd0bjZ1bWxyb2g3OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif" height="150" alt="Pacman GIF" />
   
 </div>
 
