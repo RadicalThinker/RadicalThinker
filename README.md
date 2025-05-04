@@ -42,20 +42,22 @@ I am also an AI enthuthiast and currently learning machine learning
 </div>
 
  ---
+
+
+<p align="center">
+<img align="middle" alt="GIF" src="https://camo.githubusercontent.com/dd9b4a35c79a57583ccfc38c3512469e375ebae578f7a90aa020f57748a81dfc/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f68642f3232383733353133373131393831312e363230353437323462616630622e676966" />
+</p>
+
+
 <div style="display: flex; align-items: center; justify-content: center; gap: 30px; ;">
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RadicalThinker&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" />
-
-  <!-- GitHub Streak -->
-
-
-  <!-- Pacman GIF -->
-  <img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2w0YTI2bHdocG9sczhvdXBoMWJ3a3JlNjZneHd0bjZ1bWxyb2g3OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif"  alt="Pacman GIF" />
-
-  <img  align="center" src="https://streak-stats.demolab.com?user=radicalthinker&theme=dark&short_numbers=true"  alt="GitHub Streak Stats" />
-  
-</div>
+ 
+   <!-- Top Languages -->
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RadicalThinker&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+ 
+   <!-- GitHub Streak -->
+   <img width="380px" src="https://streak-stats.demolab.com?user=radicalthinker&theme=dark&short_numbers=true" width="460" alt="GitHub Streak Stats" />
+   
+ </div>
 
 
 
