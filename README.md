@@ -42,16 +42,16 @@ I am also an AI enthuthiast and currently learning machine learning
 </div>
 
  ---
-<div>
+<div style="display: flex; align-items: center; justify-content: center; gap: 30px; ;">
 
   <!-- Top Languages -->
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=RadicalThinker&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" />
-  
-  <img  align="center" height="240px" width="324px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ZpcWc5bTRoM3k1Z2s5emJ0d3h1eDFhcGRucmh4ZGIxaXV6Yzk5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" height="150" alt="Pacman GIF" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RadicalThinker&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 
+  <!-- GitHub Streak -->
+  <img width="380px" src="https://streak-stats.demolab.com?user=radicalthinker&theme=dark&short_numbers=true" width="460" alt="GitHub Streak Stats" />
 
   <!-- Pacman GIF -->
-  <img  align="right" height="240px" width="300px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2w0YTI2bHdocG9sczhvdXBoMWJ3a3JlNjZneHd0bjZ1bWxyb2g3OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif" alt="Pacman GIF" />
+  <img width="224px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2w0YTI2bHdocG9sczhvdXBoMWJ3a3JlNjZneHd0bjZ1bWxyb2g3OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif" height="150" alt="Pacman GIF" />
   
 </div>
 
@@ -118,4 +118,3 @@ I am also an AI enthuthiast and currently learning machine learning
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RadicalThinker&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
