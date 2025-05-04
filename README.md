@@ -59,17 +59,18 @@ I am also an AI enthuthiast and currently learning machine learning
    <img width="380px" src="https://streak-stats.demolab.com?user=radicalthinker&theme=dark&short_numbers=true" width="460" alt="GitHub Streak Stats" align="right" />
    
  </div>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+    <br/>
+  <br/>
 
-
----
 
 ---
 
 ## ⚙️ Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px" />
 
----
-
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
