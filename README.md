@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 I specialize in **Full Stack Web Development** using **JavaScript** ,**MERN stack** (MongoDB · Express.js · React.js · Node.js) and **NEXTJS**, along with modern tools and libraries. 
 
-I am also an AI enthuthiast and currently learning machine learning
+I am an AI enthuthiast and currently learning machine learning
 
 🤖 Building cool stuff every day
 
