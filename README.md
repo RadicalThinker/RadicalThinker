@@ -56,7 +56,7 @@ I am an AI enthuthiast and currently learning machine learning
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RadicalThinker&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" align="left" />
 
    <!-- GitHub Streak -->
-   <img width="380px" src="https://streak-stats.demolab.com?user=radicalthinker&theme=dark&short_numbers=true" width="460" alt="GitHub Streak Stats" align="right" />
+   <img width="380px" src="https://streak-stats.demolab.com/?user=RadicalThinker&theme=panda&hide_border=false&short_numbers=true" width="460" alt="GitHub Streak Stats" align="right" />
    
  </div>
   <br/>
@@ -129,7 +129,4 @@ I am an AI enthuthiast and currently learning machine learning
 ## 📊 GitHub Graph 💹
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RadicalThinker&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-<div align="center">
-  <img src="https:///github-readme-stats.vercel.app/api/top-langs/?username=radicalthinker&layout=pie"  alt="language-pie"  />
 </div>
