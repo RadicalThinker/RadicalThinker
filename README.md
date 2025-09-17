@@ -62,7 +62,6 @@ I am an AI enthuthiast and currently learning machine learning
   <br/>
   <br/>
   <br/>
-    <br/>
   <br/>
 
 
