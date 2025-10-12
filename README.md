@@ -63,12 +63,6 @@ I am an AI enthuthiast and currently learning machine learning
   <br/>
   <br/>
   
-<br/>
-
----
-
-## ⚙️ Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px" />
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
