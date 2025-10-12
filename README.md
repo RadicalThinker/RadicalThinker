@@ -197,42 +197,4 @@ const yashVardhanRawat = {
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Profile Views Counter -->
-<div align="center">
-  
-### 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=RadicalThinker&color=blueviolet&style=for-the-badge)
-
-</div>
-
-
-
-
-<!-- Footer -->
-<div align="center">
-  
-### ⚡ Current Status
-```javascript
-while (alive) {
-    eat();
-    code();
-    sleep();
-    repeat();
-}
-```
-
----
-
-💙 **Open to collaborations on innovative projects!**
-
-📫 **Best way to reach me:** voicesecret9@gmail.com
-
-⭐ **If you find my work interesting, drop a star!**
-
-**Let's build something amazing together!** 🚀
-
-</div>
