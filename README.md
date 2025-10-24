@@ -192,7 +192,7 @@ const yashVardhanRawat = {
 <!-- Quote Section -->
 <div align="center">
 
-### 💭 Dev Quote of the Day
+### 💭 Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
