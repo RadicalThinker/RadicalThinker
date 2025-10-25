@@ -9,7 +9,7 @@
 <!-- About Me Section -->
 <div align="center">
   
-### 🚀 About Me
+### 🚀 My Info in JSON
 
 ```typescript
 const yashVardhanRawat = {
