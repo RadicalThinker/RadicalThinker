@@ -161,7 +161,7 @@ const yashVardhanRawat = {
 <!-- Achievements Section -->
 <div align="center">
 
-## 🏆 Achievements & Recognition
+## 🏆 Achievements
 
 <!-- <table>
   <tr>
